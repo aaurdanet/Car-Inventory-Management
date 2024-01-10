@@ -27,7 +27,7 @@ Run the compiled executable.
 
 bash
 
-    ./car_inventory
+    ./binarycar
 
     Follow the on-screen menu to perform operations such as adding a car, displaying all cars, deleting a car, or quitting the program.
 
